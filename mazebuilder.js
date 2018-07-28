@@ -1,13 +1,13 @@
 //Jobayer Bin Showkat
 //ID:17301217
 var cols, rows;
-var sizew = 30;
+var sizew = 25;
 var grid = [];
 var current;
 var stack = [];
 
 function setup(){
-     createCanvas(900,900);
+     createCanvas(750,750);
      cols = floor(width/sizew);
      rows = floor(height/sizew);
      //frameRate(5);
