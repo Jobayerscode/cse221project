@@ -1,7 +1,7 @@
 //Jobayer Bin Showkat
 //ID:17301217
 var cols, rows;
-var sizew = 40;
+var sizew = 10;
 var grid = [];
 var current;
 var stack = [];
